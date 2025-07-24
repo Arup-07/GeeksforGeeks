@@ -20,8 +20,8 @@ The form collects basic user information and preferences, including name, email,
 3. Fill out the form fields and submit.
 
 ## File Structure
-/ 
-│
+Week 1 Assignment/
+└── Task 1/
 ├── index.html# Survey form HTML page
 ├── style.css # CSS styles for layout and design
 └── script.js # JavaScript for form behavior and validation
