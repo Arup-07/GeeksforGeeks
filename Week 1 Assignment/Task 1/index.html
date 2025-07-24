@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Survey Form</h1>
+    <div class="container">
+        <form id="form">
+            <label for="name">Name</label><br>
+            <input type="text" placeholder="Enter your name"><br><br>
+            <label for="email">Email</label><br>
+            <input type="email" placeholder="Enter your email"><br><br>
+            <label for="age">Age</label><br>
+            <input type="number" placeholder="Enter your age"><br><br>
+            <label for="description">Which option best decribes you?</label><br>
+            <select name="decription" id="role">
+                <option value="student">Student</option>
+                <option value="professional">Working Professional</option>
+                <option value="intern">Intern</option>
+                <option value="other">Other</option>
+            </select><br><br>
+            <label for="qs">Have you ever worked in any of the following?</label>
+            <div class ="work">
+                <input type="checkbox" class="work-option"id="corporate">
+                <label for="corporate">Corporate Company</label><br>
+                <input type="checkbox"class="work-option" id="ngo">
+                <label for="ngo">NGO</label><br>
+                <input type="checkbox"class="work-option" id="startup">
+                <label for="startup">Startup</label><br>
+                <input type="checkbox" class="work-option"id="govt">
+                <label for="govt">Government Organization</label><br>
+                <input type="checkbox" id="freelancer">
+                <label for="freelancer">Freelancer</label><br>
+                <input type="checkbox" id="none">
+                <label for="none">None</label>
+            </div><br>
+            <label>Languages and Frameworks known</label><br>
+            <small>(Check all that apply)</small><br>
+            <div>
+                <input type="checkbox">
+                <label for="c">C</label><br>
+                <input type="checkbox">
+                <label for="c++">C++</label><br>
+                <input type="checkbox">
+                <label for="java">Java</label><br>
+                <input type="checkbox">
+                <label for="python">Python</label><br>
+                <input type="checkbox">
+                <label for="js">JavaScript</label><br>
+                <input type="checkbox">
+                <label for="angular">Angular</label><br>
+                <input type="checkbox">
+                <label for="react">React</label><br>
+                <input type="checkbox">
+                <label for="django">Django</label><br>
+                <input type="checkbox">
+                <label for="spring">Spring</label><br>
+            </div><br>
+            <label for="comments">Any Comments or suggestions</label><br>
+            <textarea name="comment" id="comment"
+                placeholder="Enter your comment or suggestions here"></textarea><br><br>
+            <button>Submit</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
