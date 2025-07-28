@@ -33,8 +33,8 @@ Week 2
 # 🌐 Responsive Portfolio Website
 This is a clean and responsive **portfolio website** created as part of the Day 11 task in Week 2 of my GeeksforGeeks 160-day coding challenge.
 
-## 🔥 Features
-- Fully responsive layout for all screen sizes 📱💻
+##  Features
+- Fully responsive layout for all screen sizes
 - Clean and modern UI
 - Organized sections for:
   - Header and Navigation
@@ -44,12 +44,12 @@ This is a clean and responsive **portfolio website** created as part of the Day 
 - Custom styling with CSS
 - Accessible and semantic HTML
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **HTML5**
 - **CSS3**
 - **Media Queries** for responsive design
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this project locally:
 1. Clone this repository:
