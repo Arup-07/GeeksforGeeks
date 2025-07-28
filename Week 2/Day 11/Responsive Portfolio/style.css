@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding:0;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: rgba(26, 8, 90, 0.84);
+    padding: 1rem,0;
+}
+.nav ul{
+    list-style-type: none;
+    margin-bottom:1rem;
+    display:flex;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1rem;
+}
+.nav a{
+     color: #ffffff; 
+    transition: color 0.3s ease;
+    border: 2px solid #CABDFF;
+    border-radius: 5px;
+    padding: 2.5px;
+    
+}
+
+.nav :hover{
+    color:	#ac9af2;
+}
