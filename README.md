@@ -1,4 +1,4 @@
-📚 GeeksforGeeks – Assignments & Practice Solutions
+📚 GeeksforGeeks – Assignments & Practice Solutions to Nation SkillUp Full Stack Development 
 This repository contains my solutions to various assignments, daily practice problems, and UI clone projects from GeeksforGeeks.
 The main goal of this repo is to track my progress, improve problem-solving skills, and practice HTML, CSS, and Java programming through structured learning.
 
