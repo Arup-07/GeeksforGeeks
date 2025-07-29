@@ -21,4 +21,4 @@ Platform: GeeksforGeeks (Practice & Assignments)
 4.Open HTML files directly in a browser or use Live Server.
 
 👨‍💻 Author
-Arup – GitHub Profile
+Arup – https://github.com/Arup-07
